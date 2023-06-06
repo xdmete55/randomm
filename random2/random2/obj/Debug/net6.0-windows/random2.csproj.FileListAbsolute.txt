@@ -1,0 +1,17 @@
+C:\Users\Metehan\source\repos\random2\random2\bin\Debug\net6.0-windows\random2.exe
+C:\Users\Metehan\source\repos\random2\random2\bin\Debug\net6.0-windows\random2.deps.json
+C:\Users\Metehan\source\repos\random2\random2\bin\Debug\net6.0-windows\random2.runtimeconfig.json
+C:\Users\Metehan\source\repos\random2\random2\bin\Debug\net6.0-windows\random2.dll
+C:\Users\Metehan\source\repos\random2\random2\bin\Debug\net6.0-windows\random2.pdb
+C:\Users\Metehan\source\repos\random2\random2\obj\Debug\net6.0-windows\random2.csproj.AssemblyReference.cache
+C:\Users\Metehan\source\repos\random2\random2\obj\Debug\net6.0-windows\random2.Form1.resources
+C:\Users\Metehan\source\repos\random2\random2\obj\Debug\net6.0-windows\random2.csproj.GenerateResource.cache
+C:\Users\Metehan\source\repos\random2\random2\obj\Debug\net6.0-windows\random2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\source\repos\random2\random2\obj\Debug\net6.0-windows\random2.AssemblyInfoInputs.cache
+C:\Users\Metehan\source\repos\random2\random2\obj\Debug\net6.0-windows\random2.AssemblyInfo.cs
+C:\Users\Metehan\source\repos\random2\random2\obj\Debug\net6.0-windows\random2.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\source\repos\random2\random2\obj\Debug\net6.0-windows\random2.dll
+C:\Users\Metehan\source\repos\random2\random2\obj\Debug\net6.0-windows\refint\random2.dll
+C:\Users\Metehan\source\repos\random2\random2\obj\Debug\net6.0-windows\random2.pdb
+C:\Users\Metehan\source\repos\random2\random2\obj\Debug\net6.0-windows\random2.genruntimeconfig.cache
+C:\Users\Metehan\source\repos\random2\random2\obj\Debug\net6.0-windows\ref\random2.dll
